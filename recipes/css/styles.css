@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(185.179.175);
+    text-align: center;
+}
+h1 {
+    /* 
+    color: rgb(39, 39, 41);
+    background-color: #61E8E4;
+    padding: 5px;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+    */
+}
+tr {
+    background-color: #e2e2e2;
+}
+.material {
+    color: white;
+    background-color: #6661E8;
+}
+.ingredient1 {
+    color: white;
+    background-color: #6687F2;
+}
+.ingredient2 {
+    color: white;
+    background-color: #67A1DB;
+}
+.blueprints {
+    color: black;
+    border: 1px solid #665546;
+    background-color: white;
+    padding: 10px;
+}
